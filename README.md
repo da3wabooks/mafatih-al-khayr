@@ -11,3 +11,19 @@
 
 ## المواضيع
 العقيدة الإسلامية, التوحيد, التربية الإيمانية, الأخلاق والآداب, المواعظ والرقائق
+
+<!-- book-links-start -->
+## روابط الكتاب
+
+- [المصدر الرسمي للحقوق](https://www.al-badr.net/ebook/20)
+- [GitHub](https://github.com/da3wabooks/mafatih-al-khayr)
+- [Internet Archive](https://archive.org/details/mafatih-al-khayr-265)
+- [Zenodo](https://zenodo.org/records/24517150)
+- [Telegram](https://t.me/arabicfreebooks/2096)
+- [Blogger](https://isalamicarabicbooks.blogspot.com/2026/11/blog-post.html)
+- [Hugging Face — نسخة الكتاب](https://huggingface.co/datasets/Youssef838/arabic-islamic-book-265)
+- [Hugging Face — المجموعة](https://huggingface.co/datasets/Youssef838/arabic-islamic-books/tree/main/pdfs/265)
+- [Kaggle — نسخة الكتاب](https://www.kaggle.com/datasets/youssefessam838/arabic-islamic-book-265)
+- [Kaggle — المجموعة](https://www.kaggle.com/datasets/youssefessam838/arabic-islamic-books)
+- [صفحة الكتاب على الموقع](https://da3wabooks.github.io/book/265.html)
+<!-- book-links-end -->
